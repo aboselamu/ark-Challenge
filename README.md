@@ -1,4 +1,4 @@
-# Template: Python - Browser automation with Playwright
+# Template: Python - Extracting data from new website 
 
 This template leverages the new [Python framework](https://github.com/robocorp/robocorp), the [libraries](https://github.com/robocorp/robocorp/blob/master/docs/README.md#python-libraries) from to same project as well.
 
